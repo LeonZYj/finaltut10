@@ -8,4 +8,7 @@ but i still did not manage to do it well and it is sometimes confusing what to i
 when we do the builder part in the program.cs
 
 
-connection string: Server=localhost,1433;Database=APBD;User Id=sa;Password=Testabcd890;TrustServerCertificate=True;
+
+The connection string has info to connect to a database: 
+where it is, which database to use, login details, and a setting 
+to trust the connection. It helps the app talk to the database.

@@ -144,3 +144,4 @@
 /Users/leonzacharewicz/RiderProjects/APBD999999/WebAPI/obj/Debug/net8.0/WebAPI.pdb
 /Users/leonzacharewicz/RiderProjects/APBD999999/WebAPI/obj/Debug/net8.0/WebAPI.genruntimeconfig.cache
 /Users/leonzacharewicz/RiderProjects/APBD999999/WebAPI/obj/Debug/net8.0/ref/WebAPI.dll
+/Users/leonzacharewicz/RiderProjects/APBD999999/WebAPI/obj/Debug/net8.0/WebAPI.sourcelink.json
